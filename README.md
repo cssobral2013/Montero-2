@@ -1,2 +1,2 @@
-# Montero-2
+# Montero 2
 Is developed from Reddit Sans
