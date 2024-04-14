@@ -1,5 +1,5 @@
 # Montero 2
-Is developed from Reddit Sans
+Is developed from and inspired by Reddit Sans and Raleway.
 
 # Main changes include:
 - Flattened non-tailed alternates on 'a', 'd', and 'u'
