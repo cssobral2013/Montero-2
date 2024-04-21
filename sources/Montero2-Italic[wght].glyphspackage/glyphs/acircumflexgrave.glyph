@@ -1,0 +1,73 @@
+{
+glyphname = acircumflexgrave;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (210,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 642;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{226, 0}";
+},
+{
+name = center;
+position = "{289, 260}";
+},
+{
+name = ogonek;
+position = "{462, 0}";
+},
+{
+name = top;
+position = "{352, 520}";
+},
+{
+name = topright;
+position = "{633, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (216,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 612;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (266,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 582;
+}
+);
+leftKerningGroup = LAT_ASS02_LC;
+rightKerningGroup = LAT_A_LC;
+unicode = 7847;
+}

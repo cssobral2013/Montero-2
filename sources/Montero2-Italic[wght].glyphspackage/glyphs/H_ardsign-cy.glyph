@@ -1,0 +1,83 @@
+{
+glyphname = "Hardsign-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{476, 720}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,564,l),
+(324,720,l),
+(96,720,l),
+(60,564,l)
+);
+},
+{
+alignment = -1;
+ref = "Softsign-cy";
+}
+);
+width = 740;
+},
+{
+anchors = (
+{
+name = top;
+position = "{442, 720}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,627,l),
+(287,720,l),
+(103,720,l),
+(81,627,l)
+);
+},
+{
+alignment = -1;
+pos = (60,0);
+ref = "Softsign-cy";
+}
+);
+width = 666;
+},
+{
+anchors = (
+{
+name = top;
+position = "{408, 720}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(222,690,l),
+(230,720,l),
+(110,720,l),
+(102,690,l)
+);
+},
+{
+alignment = -1;
+ref = "Softsign-cy";
+}
+);
+width = 592;
+}
+);
+rightKerningGroup = CYR_SOFTSIGN_UC;
+unicode = 1066;
+}

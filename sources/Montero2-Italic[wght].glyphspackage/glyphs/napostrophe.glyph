@@ -1,0 +1,110 @@
+{
+glyphname = napostrophe;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{418, 0}";
+},
+{
+name = leghookleft;
+position = "{264, 0}";
+},
+{
+name = leghookretroflex;
+position = "{578, 0}";
+},
+{
+name = top;
+position = "{556, 528}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+pos = (178,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (-5,-10);
+ref = quoteright;
+}
+);
+width = 782;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{315, 0}";
+},
+{
+name = leghookleft;
+position = "{145, 0}";
+},
+{
+name = leghookretroflex;
+position = "{481, 0}";
+},
+{
+name = top;
+position = "{451, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+pos = (81,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (-54,-15);
+ref = quoteright;
+}
+);
+width = 661;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{273, 0}";
+},
+{
+name = leghookleft;
+position = "{93, 0}";
+},
+{
+name = leghookretroflex;
+position = "{435, 0}";
+},
+{
+name = top;
+position = "{391, 512}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+pos = (51,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (-25,-40);
+ref = quoteright;
+}
+);
+width = 587;
+}
+);
+leftKerningGroup = LAT_NAPOSTROPHE_LC;
+rightKerningGroup = LAT_N_LC;
+unicode = 329;
+}

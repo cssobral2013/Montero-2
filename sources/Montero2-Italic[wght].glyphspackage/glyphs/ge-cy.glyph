@@ -1,0 +1,88 @@
+{
+glyphname = "ge-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{376, 0}";
+},
+{
+name = top;
+position = "{290, 528}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,0,l),
+(256,378,l),
+(468,378,l),
+(502,528,l),
+(122,528,l),
+(2,0,l)
+);
+}
+);
+width = 450;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{358, 0}";
+},
+{
+name = top;
+position = "{280, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(113,0,l),
+(211,432,l),
+(459,432,l),
+(479,520,l),
+(131,520,l),
+(13,0,l)
+);
+}
+);
+width = 428;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{340, 0}";
+},
+{
+name = top;
+position = "{270, 512}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(56,0,l),
+(166,486,l),
+(450,486,l),
+(456,512,l),
+(140,512,l),
+(24,0,l)
+);
+}
+);
+width = 406;
+}
+);
+rightKerningGroup = LAT_R_LC;
+unicode = 1075;
+}

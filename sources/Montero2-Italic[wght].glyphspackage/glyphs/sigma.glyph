@@ -1,0 +1,84 @@
+{
+glyphname = sigma;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,406,l),
+(578,406,o),
+(612,404,o),
+(680,394,c),
+(702,528,l),
+(598,532,o),
+(490,536,o),
+(380,536,c)
+);
+},
+{
+alignment = -1;
+ref = omicron;
+}
+);
+width = 682;
+},
+{
+anchors = (
+{
+name = top;
+position = "{370, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(468,451,l),
+(585,446,o),
+(591,444,o),
+(661,435,c),
+(674,518,l),
+(569,524,o),
+(480,529,o),
+(372,529,c)
+);
+},
+{
+alignment = -1;
+pos = (3,0);
+ref = omicron;
+}
+);
+width = 665;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(422,496,l),
+(592,486,o),
+(570,484,o),
+(642,476,c),
+(646,508,l),
+(540,516,o),
+(470,522,o),
+(364,522,c)
+);
+},
+{
+alignment = -1;
+ref = omicron;
+}
+);
+width = 648;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_O_LC;
+unicode = 963;
+}

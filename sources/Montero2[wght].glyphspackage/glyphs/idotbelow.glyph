@@ -1,0 +1,56 @@
+{
+glyphname = idotbelow;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+pos = (6,0);
+ref = dotbelowcomb;
+}
+);
+width = 298;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{125, 0}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+pos = (12,0);
+ref = dotbelowcomb;
+}
+);
+width = 251;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+pos = (18,0);
+ref = dotbelowcomb;
+}
+);
+width = 204;
+}
+);
+leftKerningGroup = LAT_I_LC;
+rightKerningGroup = LAT_I_LC;
+unicode = 7883;
+}

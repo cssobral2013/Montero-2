@@ -1,0 +1,69 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (300,356);
+ref = strokeshortcomb;
+}
+);
+width = 656;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{302, 0}";
+},
+{
+name = leghookretroflex;
+position = "{497, 0}";
+},
+{
+name = top;
+position = "{496, 752}";
+},
+{
+name = topright;
+position = "{547, 752}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (321,342);
+ref = strokeshortcomb;
+}
+);
+width = 625;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (342,328);
+ref = strokeshortcomb;
+}
+);
+width = 594;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_DCROAT_LC;
+unicode = 273;
+}

@@ -1,0 +1,126 @@
+{
+glyphname = Rdblgrave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{340, 720}";
+},
+{
+name = top;
+position = "{280, 822}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,760,l),
+(288,802,l),
+(182,980,l),
+(70,918,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,760,l),
+(490,802,l),
+(386,980,l),
+(274,918,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 704;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{332, 0}";
+},
+{
+name = top;
+position = "{263, 822}";
+},
+{
+name = _top;
+position = "{319, 720}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,771,l),
+(262,797,l),
+(165,966,l),
+(94,927,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(378,771,l),
+(433,797,l),
+(338,966,l),
+(267,927,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 656;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{298, 720}";
+},
+{
+name = top;
+position = "{246, 822}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,782,l),
+(236,792,l),
+(148,952,l),
+(118,936,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(352,782,l),
+(376,792,l),
+(290,952,l),
+(260,936,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 608;
+}
+);
+leftKerningGroup = LAT_H_UC;
+rightKerningGroup = LAT_R_UC;
+unicode = 528;
+}

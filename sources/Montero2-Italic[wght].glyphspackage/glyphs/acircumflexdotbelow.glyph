@@ -1,0 +1,83 @@
+{
+glyphname = acircumflexdotbelow;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{506, 784}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = adotbelow;
+},
+{
+alignment = -1;
+pos = (58,0);
+ref = circumflexcomb;
+}
+);
+width = 642;
+},
+{
+anchors = (
+{
+name = center;
+position = "{326, 262}";
+},
+{
+name = ogonek;
+position = "{430, -2}";
+},
+{
+name = topright;
+position = "{678, 520}";
+},
+{
+name = top;
+position = "{443, 752}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = adotbelow;
+},
+{
+alignment = -1;
+pos = (83,0);
+ref = circumflexcomb;
+}
+);
+width = 641;
+},
+{
+anchors = (
+{
+name = top;
+position = "{468, 720}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = adotbelow;
+},
+{
+alignment = -1;
+pos = (116,0);
+ref = circumflexcomb;
+}
+);
+width = 582;
+}
+);
+leftKerningGroup = LAT_ASS02_LC;
+rightKerningGroup = LAT_A_LC;
+unicode = 7853;
+}

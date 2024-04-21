@@ -1,0 +1,91 @@
+{
+glyphname = Racute;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{-116, 822}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,754,l),
+(270,824,l),
+(448,976,l),
+(528,870,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 704;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{332, 0}";
+},
+{
+name = top;
+position = "{319, 720}";
+},
+{
+name = _top;
+position = "{319, 720}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,757,l),
+(273,804,l),
+(431,947,l),
+(481,883,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 656;
+},
+{
+anchors = (
+{
+name = top;
+position = "{-174, 822}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+closed = 1;
+nodes = (
+(298,760,l),
+(276,784,l),
+(414,918,l),
+(434,896,l)
+);
+},
+{
+alignment = -1;
+ref = R;
+}
+);
+width = 608;
+}
+);
+leftKerningGroup = LAT_H_UC;
+rightKerningGroup = LAT_R_UC;
+unicode = 340;
+}

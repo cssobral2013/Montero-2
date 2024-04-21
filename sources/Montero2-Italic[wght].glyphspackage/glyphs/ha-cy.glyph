@@ -1,0 +1,64 @@
+{
+glyphname = "ha-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{494, 0}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 582;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{443, 0}";
+},
+{
+name = bottom;
+position = "{207, 0}";
+},
+{
+name = top;
+position = "{325, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 530;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{392, 0}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 478;
+}
+);
+leftKerningGroup = LAT_X_LC;
+rightKerningGroup = LAT_X_LC;
+unicode = 1093;
+}

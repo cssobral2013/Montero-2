@@ -1,0 +1,80 @@
+{
+color = 4;
+glyphname = umacrondieresis.ss01;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = u.ss01;
+},
+{
+pos = (58,0);
+ref = macroncomb;
+},
+{
+pos = (98,192);
+ref = dieresiscomb;
+}
+);
+width = 606;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{254, 0}";
+},
+{
+name = horn;
+position = "{508, 520}";
+},
+{
+name = ogonek;
+position = "{438, 0}";
+},
+{
+name = top;
+position = "{430, 859}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = u.ss01;
+},
+{
+pos = (56,0);
+ref = macroncomb;
+},
+{
+pos = (110,170);
+ref = dieresiscomb;
+}
+);
+width = 554;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = u.ss01;
+},
+{
+pos = (74,0);
+ref = macroncomb;
+},
+{
+pos = (142,148);
+ref = dieresiscomb;
+}
+);
+width = 502;
+}
+);
+leftKerningGroup = LAT_U_LC;
+rightKerningGroup = LAT_ASS01_LC;
+}

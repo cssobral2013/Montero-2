@@ -1,0 +1,72 @@
+{
+color = 4;
+glyphname = atilde.ss01;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+pos = (94,0);
+ref = tildecomb;
+}
+);
+width = 630;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{246, 0}";
+},
+{
+name = center;
+position = "{309, 260}";
+},
+{
+name = ogonek;
+position = "{482, 0}";
+},
+{
+name = top;
+position = "{411, 689}";
+},
+{
+name = topright;
+position = "{653, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+pos = (114,0);
+ref = tildecomb;
+}
+);
+width = 610;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+pos = (116,0);
+ref = tildecomb;
+}
+);
+width = 590;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_ASS01_LC;
+}

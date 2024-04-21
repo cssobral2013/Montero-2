@@ -1,0 +1,53 @@
+{
+glyphname = backslash;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,-146,l),
+(404,-146,l),
+(222,812,l),
+(100,812,l)
+);
+}
+);
+width = 474;
+},
+{
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(279,-146,l),
+(355,-146,l),
+(175,812,l),
+(100,812,l)
+);
+}
+);
+width = 422;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(276,-146,l),
+(306,-146,l),
+(128,812,l),
+(100,812,l)
+);
+}
+);
+width = 370;
+}
+);
+leftKerningGroup = PCT_BACKSLASHSS10;
+rightKerningGroup = PCT_BACKSLASHSS10;
+unicode = 92;
+}

@@ -1,0 +1,178 @@
+{
+glyphname = Ocircumflexdotbelow;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{340, 0}";
+},
+{
+name = top;
+position = "{550, 924}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(363,-236,o),
+(408,-191,o),
+(408,-134,cs),
+(408,-77,o),
+(363,-32,o),
+(306,-32,cs),
+(249,-32,o),
+(204,-77,o),
+(204,-134,cs),
+(204,-191,o),
+(249,-236,o),
+(306,-236,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(534,846,l),
+(538,846,l),
+(642,756,l),
+(728,834,l),
+(570,958,l),
+(538,958,l),
+(332,834,l),
+(396,756,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 798;
+},
+{
+anchors = (
+{
+name = center;
+position = "{420, 359}";
+},
+{
+name = horn;
+position = "{652, 692}";
+},
+{
+name = ogonek;
+position = "{339, 0}";
+},
+{
+name = top;
+position = "{543, 898}";
+},
+{
+name = topleft;
+position = "{128, 720}";
+},
+{
+name = topright;
+position = "{876, 720}";
+},
+{
+name = _bottom;
+position = "{338, 0}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(347,-202,o),
+(379,-170,o),
+(379,-130,cs),
+(379,-90,o),
+(347,-58,o),
+(307,-58,cs),
+(267,-58,o),
+(235,-90,o),
+(235,-130,cs),
+(235,-170,o),
+(267,-202,o),
+(307,-202,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(534,851,l),
+(539,851,l),
+(639,758,l),
+(693,809,l),
+(560,923,l),
+(535,923,l),
+(353,809,l),
+(394,758,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 794;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{336, 0}";
+},
+{
+name = top;
+position = "{536, 872}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(331,-168,o),
+(350,-149,o),
+(350,-126,cs),
+(350,-103,o),
+(331,-84,o),
+(308,-84,cs),
+(285,-84,o),
+(266,-103,o),
+(266,-126,cs),
+(266,-149,o),
+(285,-168,o),
+(308,-168,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(534,856,l),
+(540,856,l),
+(636,760,l),
+(658,784,l),
+(550,888,l),
+(532,888,l),
+(374,784,l),
+(392,760,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 790;
+}
+);
+leftKerningGroup = LAT_O_UC;
+rightKerningGroup = LAT_O_UC;
+unicode = 7896;
+}

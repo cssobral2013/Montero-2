@@ -1,0 +1,60 @@
+{
+glyphname = Uhornhookabove;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+pos = (254,192);
+ref = hookabovecomb;
+}
+);
+width = 764;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{450, 720}";
+},
+{
+name = top;
+position = "{496, 920}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+pos = (263,200);
+ref = hookabovecomb;
+}
+);
+width = 714;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+pos = (272,208);
+ref = hookabovecomb;
+}
+);
+width = 664;
+}
+);
+leftKerningGroup = LAT_U_UC;
+rightKerningGroup = LAT_U_UC;
+unicode = 7916;
+}

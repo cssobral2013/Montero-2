@@ -1,0 +1,146 @@
+{
+glyphname = Ohungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{504, 720}";
+},
+{
+name = top;
+position = "{584, 822}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,802,l),
+(450,760,l),
+(616,918,l),
+(516,980,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(574,802,l),
+(654,760,l),
+(818,918,l),
+(716,980,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 798;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{338, 0}";
+},
+{
+name = center;
+position = "{420, 359}";
+},
+{
+name = horn;
+position = "{652, 692}";
+},
+{
+name = ogonek;
+position = "{339, 0}";
+},
+{
+name = top;
+position = "{578, 822}";
+},
+{
+name = topleft;
+position = "{128, 720}";
+},
+{
+name = topright;
+position = "{876, 720}";
+},
+{
+name = _top;
+position = "{502, 720}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,797,l),
+(454,771,l),
+(601,927,l),
+(539,966,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(577,797,l),
+(626,771,l),
+(772,927,l),
+(709,966,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 794;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{500, 720}";
+},
+{
+name = top;
+position = "{572, 822}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(438,792,l),
+(458,782,l),
+(586,936,l),
+(562,952,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(580,792,l),
+(598,782,l),
+(726,936,l),
+(702,952,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 790;
+}
+);
+leftKerningGroup = LAT_O_UC;
+rightKerningGroup = LAT_O_UC;
+unicode = 336;
+}

@@ -1,0 +1,69 @@
+{
+glyphname = tcedilla;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+pos = (134,0);
+ref = cedillacomb;
+}
+);
+width = 438;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{186, 0}";
+},
+{
+name = center;
+position = "{170, 260}";
+},
+{
+name = top;
+position = "{264, 682}";
+},
+{
+name = topright;
+position = "{349, 809}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (129,0);
+ref = cedillacomb;
+}
+);
+width = 391;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+pos = (124,0);
+ref = cedillacomb;
+}
+);
+width = 344;
+}
+);
+leftKerningGroup = LAT_T_LC;
+rightKerningGroup = LAT_T_LC;
+unicode = 355;
+}

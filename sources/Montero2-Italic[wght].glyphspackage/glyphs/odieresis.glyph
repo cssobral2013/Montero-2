@@ -1,0 +1,77 @@
+{
+glyphname = odieresis;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (42,0);
+ref = dieresiscomb;
+}
+);
+width = 608;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{242, 0}";
+},
+{
+name = center;
+position = "{301, 260}";
+},
+{
+name = horn;
+position = "{483, 495}";
+},
+{
+name = ogonek;
+position = "{306, 0}";
+},
+{
+name = top;
+position = "{399, 689}";
+},
+{
+name = topright;
+position = "{634, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (89,0);
+ref = dieresiscomb;
+}
+);
+width = 600;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (136,0);
+ref = dieresiscomb;
+}
+);
+width = 592;
+}
+);
+leftKerningGroup = LAT_O_LC_BAR;
+rightKerningGroup = LAT_O_LC_BAR;
+unicode = 246;
+}

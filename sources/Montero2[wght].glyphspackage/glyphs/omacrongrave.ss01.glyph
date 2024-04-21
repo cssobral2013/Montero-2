@@ -1,0 +1,86 @@
+{
+color = 4;
+glyphname = omacrongrave.ss01;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+ref = o.ss01;
+},
+{
+pos = (52,0);
+ref = macroncomb;
+},
+{
+pos = (98,192);
+ref = gravecomb;
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{309, 0}";
+},
+{
+name = center;
+position = "{309, 260}";
+},
+{
+name = horn;
+position = "{447, 495}";
+},
+{
+name = ogonek;
+position = "{367, 13}";
+},
+{
+name = top;
+position = "{311, 890}";
+},
+{
+name = topright;
+position = "{610, 520}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+ref = o.ss01;
+},
+{
+pos = (81,0);
+ref = macroncomb;
+},
+{
+pos = (120,170);
+ref = gravecomb;
+}
+);
+width = 620;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+ref = o.ss01;
+},
+{
+pos = (116,0);
+ref = macroncomb;
+},
+{
+pos = (150,148);
+ref = gravecomb;
+}
+);
+width = 624;
+}
+);
+}

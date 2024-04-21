@@ -1,0 +1,92 @@
+{
+glyphname = "ie-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{248, 0}";
+},
+{
+name = cedilla;
+position = "{252, 0}";
+},
+{
+name = ogonek;
+position = "{426, 34}";
+},
+{
+name = top;
+position = "{352, 528}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 532;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{238, 0}";
+},
+{
+name = cedilla;
+position = "{234, 0}";
+},
+{
+name = ogonek;
+position = "{420, 40}";
+},
+{
+name = top;
+position = "{348, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{226, 0}";
+},
+{
+name = cedilla;
+position = "{220, 0}";
+},
+{
+name = ogonek;
+position = "{376, 38}";
+},
+{
+name = top;
+position = "{338, 512}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = e;
+}
+);
+width = 521;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_E_LC;
+unicode = 1077;
+}

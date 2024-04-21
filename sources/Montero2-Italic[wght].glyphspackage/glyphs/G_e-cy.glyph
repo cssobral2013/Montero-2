@@ -1,0 +1,89 @@
+{
+glyphname = "Ge-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{438, 0}";
+},
+{
+name = top;
+position = "{362, 720}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(312,564,l),
+(572,564,l),
+(608,720,l),
+(172,720,l),
+(8,0,l)
+);
+}
+);
+width = 518;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{427, 0}";
+},
+{
+name = top;
+position = "{358, 720}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,0,l),
+(269,627,l),
+(572,627,l),
+(594,720,l),
+(186,720,l),
+(22,0,l)
+);
+}
+);
+width = 507;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{416, 0}";
+},
+{
+name = top;
+position = "{354, 720}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,0,l),
+(226,690,l),
+(572,690,l),
+(580,720,l),
+(200,720,l),
+(36,0,l)
+);
+}
+);
+width = 496;
+}
+);
+leftKerningGroup = LAT_H_UC;
+rightKerningGroup = LAT_T_UC;
+unicode = 1043;
+}

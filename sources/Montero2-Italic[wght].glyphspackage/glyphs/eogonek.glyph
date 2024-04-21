@@ -1,0 +1,67 @@
+{
+glyphname = eogonek;
+leftMetricsKey = e;
+widthMetricsKey = e;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+pos = (278,34);
+ref = ogonekcomb;
+}
+);
+width = 532;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{280, 0}";
+},
+{
+name = cedilla;
+position = "{279, 0}";
+},
+{
+name = top;
+position = "{388, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (331,36);
+ref = ogonekcomb;
+}
+);
+width = 560;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+pos = (298,38);
+ref = ogonekcomb;
+}
+);
+width = 521;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_J_LC;
+unicode = 281;
+}

@@ -1,0 +1,83 @@
+{
+glyphname = "pe-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{552, 0}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,0,l),
+(170,0,l),
+(256,378,l),
+(438,378,l),
+(352,0,l),
+(520,0,l),
+(640,528,l),
+(122,528,l)
+);
+}
+);
+width = 642;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{503, 0}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(13,0,l),
+(113,0,l),
+(211,432,l),
+(458,432,l),
+(360,0,l),
+(459,0,l),
+(577,520,l),
+(131,520,l)
+);
+}
+);
+width = 590;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{454, 0}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(24,0,l),
+(56,0,l),
+(166,486,l),
+(478,486,l),
+(368,0,l),
+(398,0,l),
+(514,512,l),
+(140,512,l)
+);
+}
+);
+width = 538;
+}
+);
+leftKerningGroup = CYR_EN_LC;
+rightKerningGroup = "en-cy";
+unicode = 1087;
+}

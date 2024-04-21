@@ -1,0 +1,66 @@
+{
+glyphname = guillemetright;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglright;
+},
+{
+pos = (206,0);
+ref = guilsinglright;
+}
+);
+width = 542;
+},
+{
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(55,51,l),
+(263,250,l),
+(268,285,l),
+(150,483,l),
+(95,444,l),
+(188,273,l),
+(16,95,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(228,51,l),
+(436,250,l),
+(441,285,l),
+(323,483,l),
+(268,444,l),
+(361,273,l),
+(189,95,l)
+);
+}
+);
+width = 477;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglright;
+},
+{
+pos = (140,0);
+ref = guilsinglright;
+}
+);
+width = 412;
+}
+);
+leftKerningGroup = PCT_GUILRIGHT;
+rightKerningGroup = PCT_GUILRIGHT;
+unicode = 187;
+}

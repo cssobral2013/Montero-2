@@ -1,0 +1,54 @@
+{
+color = 4;
+glyphname = q.ss01;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+pos = (654,0);
+ref = p.ss01;
+scale = (-1,1);
+}
+);
+width = 654;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{516, -206}";
+},
+{
+name = top;
+position = "{322, 520}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+pos = (642,0);
+ref = p.ss01;
+scale = (-1,1);
+}
+);
+width = 642;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+pos = (620,0);
+ref = p.ss01;
+scale = (-1,1);
+}
+);
+width = 620;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_Q_LC;
+}

@@ -1,0 +1,43 @@
+{
+glyphname = nine.osf;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (544,528);
+ref = six.osf;
+}
+);
+width = 544;
+},
+{
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (524,521);
+ref = six.osf;
+}
+);
+width = 524;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (500,512);
+ref = six.osf;
+}
+);
+width = 500;
+}
+);
+leftKerningGroup = NUM_NINE_OSF;
+rightKerningGroup = NUM_NINE_OSF;
+}

@@ -1,0 +1,62 @@
+{
+glyphname = schwa;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (574,528);
+ref = e;
+}
+);
+width = 574;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{263, 520}";
+},
+{
+name = cedilla;
+position = "{264, 520}";
+},
+{
+name = ogonek;
+position = "{101, 484}";
+},
+{
+name = top;
+position = "{272, 0}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (564,520);
+ref = e;
+}
+);
+width = 564;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (554,512);
+ref = e;
+}
+);
+width = 554;
+}
+);
+leftKerningGroup = LAT_SCHWA_LC;
+rightKerningGroup = LAT_O_LC;
+unicode = 601;
+}

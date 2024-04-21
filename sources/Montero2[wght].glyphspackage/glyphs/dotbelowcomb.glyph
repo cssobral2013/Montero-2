@@ -1,0 +1,65 @@
+{
+glyphname = dotbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{144, 0}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-818);
+ref = dotaccentcomb;
+}
+);
+width = 288;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{113, 0}";
+},
+{
+name = _top;
+position = "{113, -280}";
+},
+{
+name = top;
+position = "{113, -95}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+pos = (0,-800);
+ref = dotaccentcomb;
+}
+);
+width = 226;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{82, 0}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+pos = (0,-782);
+ref = dotaccentcomb;
+}
+);
+width = 164;
+}
+);
+unicode = 803;
+}

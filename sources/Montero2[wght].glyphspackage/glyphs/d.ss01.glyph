@@ -1,0 +1,110 @@
+{
+color = 4;
+glyphname = d.ss01;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{324, 0}";
+},
+{
+name = center;
+position = "{506, 634}";
+},
+{
+name = leghookretroflex;
+position = "{508, 0}";
+},
+{
+name = top;
+position = "{508, 752}";
+},
+{
+name = topright;
+position = "{594, 752}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+pos = (658,0);
+ref = b.ss01;
+scale = (-1,1);
+}
+);
+width = 658;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{331, 0}";
+},
+{
+name = center;
+position = "{519, 625}";
+},
+{
+name = leghookretroflex;
+position = "{518, 0}";
+},
+{
+name = top;
+position = "{282, 566}";
+},
+{
+name = topright;
+position = "{648, 752}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+pos = (644,0);
+ref = b.ss01;
+scale = (-1,1);
+}
+);
+width = 644;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{314, 0}";
+},
+{
+name = center;
+position = "{520, 616}";
+},
+{
+name = leghookretroflex;
+position = "{520, 0}";
+},
+{
+name = top;
+position = "{518, 752}";
+},
+{
+name = topright;
+position = "{534, 752}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+pos = (620,0);
+ref = b.ss01;
+scale = (-1,1);
+}
+);
+width = 620;
+}
+);
+leftKerningGroup = LAT_O_LC;
+rightKerningGroup = LAT_H_UC;
+}

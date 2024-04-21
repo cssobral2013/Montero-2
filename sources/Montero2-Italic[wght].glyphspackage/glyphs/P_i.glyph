@@ -1,0 +1,65 @@
+{
+glyphname = Pi;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(8,0,l),
+(184,0,l),
+(314,568,l),
+(518,568,l),
+(388,0,l),
+(564,0,l),
+(726,716,l),
+(170,716,l)
+);
+}
+);
+width = 692;
+},
+{
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,0,l),
+(127,0,l),
+(271,632,l),
+(559,632,l),
+(415,0,l),
+(519,0,l),
+(682,721,l),
+(185,721,l)
+);
+}
+);
+width = 659;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(36,0,l),
+(70,0,l),
+(228,696,l),
+(600,696,l),
+(442,0,l),
+(474,0,l),
+(638,726,l),
+(200,726,l)
+);
+}
+);
+width = 626;
+}
+);
+leftKerningGroup = LAT_H_UC;
+rightKerningGroup = LAT_H_UC;
+unicode = 928;
+}

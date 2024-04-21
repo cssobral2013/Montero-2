@@ -1,0 +1,53 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-58,0,l),
+(92,0,l),
+(656,720,l),
+(506,720,l)
+);
+}
+);
+width = 554;
+},
+{
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-56,0,l),
+(50,0,l),
+(646,720,l),
+(540,720,l)
+);
+}
+);
+width = 544;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-54,0,l),
+(-20,0,l),
+(616,720,l),
+(578,720,l)
+);
+}
+);
+width = 514;
+}
+);
+leftKerningGroup = fraction;
+rightKerningGroup = fraction;
+unicode = 8260;
+}

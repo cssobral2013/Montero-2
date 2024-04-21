@@ -1,0 +1,115 @@
+{
+glyphname = Acaron;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{378, 720}";
+},
+{
+name = top;
+position = "{378, 788}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,866,l),
+(378,866,l),
+(502,956,l),
+(576,878,l),
+(394,754,l),
+(362,754,l),
+(180,878,l),
+(256,956,l)
+);
+},
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 756;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{360, 0}";
+},
+{
+name = ogonek;
+position = "{628, 0}";
+},
+{
+name = top;
+position = "{360, 853}";
+},
+{
+name = _top;
+position = "{360, 720}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+closed = 1;
+nodes = (
+(358,825,l),
+(362,825,l),
+(483,918,l),
+(530,867,l),
+(373,753,l),
+(348,753,l),
+(190,867,l),
+(238,918,l)
+);
+},
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 718;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{342, 720}";
+},
+{
+name = top;
+position = "{342, 768}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,784,l),
+(346,784,l),
+(464,880,l),
+(484,856,l),
+(352,752,l),
+(334,752,l),
+(200,856,l),
+(220,880,l)
+);
+},
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 680;
+}
+);
+leftKerningGroup = LAT_A_UC;
+rightKerningGroup = LAT_A_UC;
+unicode = 461;
+}

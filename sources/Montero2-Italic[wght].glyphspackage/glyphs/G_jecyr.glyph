@@ -1,0 +1,82 @@
+{
+color = (153, 154, 255, 255);
+glyphname = Gjecyr;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{438, 0}";
+},
+{
+name = top;
+position = "{406, 912}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = "Ge-cy";
+},
+{
+alignment = -1;
+pos = (160,192);
+ref = acutecomb;
+}
+);
+width = 518;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{427, 0}";
+},
+{
+name = top;
+position = "{404, 920}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = "Ge-cy";
+},
+{
+alignment = -1;
+pos = (182,200);
+ref = acutecomb;
+}
+);
+width = 507;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{416, 0}";
+},
+{
+name = top;
+position = "{402, 928}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = "Ge-cy";
+},
+{
+alignment = -1;
+pos = (204,208);
+ref = acutecomb;
+}
+);
+width = 496;
+}
+);
+unicode = 1027;
+}

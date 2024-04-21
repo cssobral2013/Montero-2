@@ -1,0 +1,48 @@
+{
+glyphname = Kappa;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = K;
+}
+);
+width = 702;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{273, 0}";
+},
+{
+name = top;
+position = "{428, 720}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = K;
+}
+);
+width = 643;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = K;
+}
+);
+width = 584;
+}
+);
+leftKerningGroup = LAT_K_UC;
+rightKerningGroup = LAT_K_UC;
+unicode = 922;
+}

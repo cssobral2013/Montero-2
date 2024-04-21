@@ -1,0 +1,68 @@
+{
+color = 4;
+glyphname = uring.ss01;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = u.ss01;
+},
+{
+pos = (136,0);
+ref = ringcomb;
+}
+);
+width = 606;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{254, 0}";
+},
+{
+name = horn;
+position = "{508, 520}";
+},
+{
+name = ogonek;
+position = "{438, 0}";
+},
+{
+name = top;
+position = "{411, 780}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = u.ss01;
+},
+{
+pos = (121,0);
+ref = ringcomb;
+}
+);
+width = 554;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = u.ss01;
+},
+{
+pos = (126,0);
+ref = ringcomb;
+}
+);
+width = 502;
+}
+);
+leftKerningGroup = LAT_U_LC;
+rightKerningGroup = LAT_ASS01_LC;
+}

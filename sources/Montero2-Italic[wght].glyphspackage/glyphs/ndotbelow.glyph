@@ -1,0 +1,64 @@
+{
+glyphname = ndotbelow;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+pos = (156,0);
+ref = dotbelowcomb;
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = leghookleft;
+position = "{64, 0}";
+},
+{
+name = leghookretroflex;
+position = "{392, 0}";
+},
+{
+name = top;
+position = "{359, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+pos = (180,0);
+ref = dotbelowcomb;
+}
+);
+width = 570;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+pos = (198,0);
+ref = dotbelowcomb;
+}
+);
+width = 536;
+}
+);
+leftKerningGroup = LAT_N_LC;
+rightKerningGroup = LAT_N_LC;
+unicode = 7751;
+}

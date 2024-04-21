@@ -1,0 +1,64 @@
+{
+glyphname = seven.dnom;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-22,0,l),
+(120,0,l),
+(394,426,l),
+(396,444,l),
+(64,444,l),
+(38,328,l),
+(264,328,l),
+(240,390,l)
+);
+}
+);
+width = 372;
+},
+{
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(7,0,l),
+(102,0,l),
+(377,430,l),
+(379,444,l),
+(70,444,l),
+(53,369,l),
+(295,369,l),
+(279,408,l)
+);
+}
+);
+width = 363;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,0,l),
+(80,0,l),
+(358,432,l),
+(360,444,l),
+(74,444,l),
+(68,416,l),
+(330,416,l),
+(324,430,l)
+);
+}
+);
+width = 350;
+}
+);
+leftKerningGroup = SEVEN_DNOM;
+rightKerningGroup = SEVEN_DNOM;
+}

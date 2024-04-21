@@ -1,0 +1,60 @@
+{
+glyphname = Yhookabove;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+pos = (194,192);
+ref = hookabovecomb;
+}
+);
+width = 684;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{320, 0}";
+},
+{
+name = top;
+position = "{320, 920}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+pos = (192,200);
+ref = hookabovecomb;
+}
+);
+width = 640;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+pos = (190,208);
+ref = hookabovecomb;
+}
+);
+width = 596;
+}
+);
+leftKerningGroup = LAT_Y_UC;
+rightKerningGroup = LAT_Y_UC;
+unicode = 7926;
+}

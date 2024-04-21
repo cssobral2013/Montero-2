@@ -1,0 +1,83 @@
+{
+glyphname = Epsilontonos;
+layers = (
+{
+anchors = (
+{
+name = _topleft;
+position = "{244, 720}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(318,1002,l),
+(180,760,l),
+(272,720,l),
+(440,904,l)
+);
+},
+{
+alignment = -1;
+pos = (118,0);
+ref = Epsilon;
+}
+);
+width = 660;
+},
+{
+anchors = (
+{
+name = _topleft;
+position = "{186, 720}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,972,l),
+(157,751,l),
+(210,723,l),
+(372,913,l)
+);
+},
+{
+alignment = -1;
+pos = (59,0);
+ref = Epsilon;
+}
+);
+width = 596;
+},
+{
+anchors = (
+{
+name = _topleft;
+position = "{128, 720}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,942,l),
+(134,742,l),
+(148,726,l),
+(304,922,l)
+);
+},
+{
+alignment = -1;
+ref = Epsilon;
+}
+);
+width = 532;
+}
+);
+unicode = 904;
+}

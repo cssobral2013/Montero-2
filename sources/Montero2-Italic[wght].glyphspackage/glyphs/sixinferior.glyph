@@ -1,0 +1,39 @@
+{
+glyphname = sixinferior;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+pos = (-20,-88);
+ref = six.dnom;
+}
+);
+width = 400;
+},
+{
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+pos = (-20,-88);
+ref = six.dnom;
+}
+);
+width = 391;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+pos = (-20,-88);
+ref = six.dnom;
+}
+);
+width = 382;
+}
+);
+unicode = 8326;
+}

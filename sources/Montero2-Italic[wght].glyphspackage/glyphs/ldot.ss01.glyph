@@ -1,0 +1,72 @@
+{
+color = 4;
+glyphname = ldot.ss01;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = l.ss01;
+},
+{
+alignment = -1;
+pos = (264,68);
+ref = periodcentered;
+scale = (0.95,1);
+}
+);
+width = 484;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{75, 0}";
+},
+{
+name = center;
+position = "{161, 376}";
+},
+{
+name = top;
+position = "{249, 778}";
+},
+{
+name = topright;
+position = "{297, 752}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = l.ss01;
+},
+{
+pos = (212,99);
+ref = periodcentered;
+scale = (0.975,1);
+}
+);
+width = 363;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = l.ss01;
+},
+{
+alignment = -1;
+pos = (142,67);
+ref = periodcentered;
+}
+);
+width = 242;
+}
+);
+leftKerningGroup = LAT_L_LC.alt;
+rightKerningGroup = LAT_LDOT_LC.alt;
+}

@@ -1,0 +1,74 @@
+{
+glyphname = scarondotaccent;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+pos = (-2,4);
+ref = caroncomb;
+},
+{
+pos = (138,196);
+ref = dotaccentcomb;
+}
+);
+width = 466;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{167, 0}";
+},
+{
+name = cedilla;
+position = "{173, 0}";
+},
+{
+name = top;
+position = "{373, 907}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+pos = (17,2);
+ref = caroncomb;
+},
+{
+pos = (158,202);
+ref = dotaccentcomb;
+}
+);
+width = 450;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+pos = (38,0);
+ref = caroncomb;
+},
+{
+pos = (180,208);
+ref = dotaccentcomb;
+}
+);
+width = 434;
+}
+);
+unicode = 7783;
+}

@@ -1,0 +1,46 @@
+{
+glyphname = zero.tosf;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = zero.osf;
+}
+);
+width = 534;
+},
+{
+anchors = (
+{
+name = center;
+position = "{268, 261}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+pos = (12,0);
+ref = zero.osf;
+}
+);
+width = 534;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = zero.osf;
+}
+);
+width = 534;
+}
+);
+leftKerningGroup = NUM_ZERO.tosf;
+rightKerningGroup = NUM_ZERO.tosf;
+}

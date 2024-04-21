@@ -1,0 +1,69 @@
+{
+glyphname = Gamma;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+pos = (134,720);
+ref = L;
+scale = (1,-1);
+slant = (27.452,0);
+}
+);
+width = 504;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{367, 720}";
+},
+{
+name = center;
+position = "{128, 355}";
+},
+{
+name = dot;
+position = "{383, 355}";
+},
+{
+name = top;
+position = "{42, 0}";
+},
+{
+name = topright;
+position = "{238, 0}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+pos = (141,720);
+ref = L;
+scale = (1,-1);
+slant = (27.452,0);
+}
+);
+width = 494;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+pos = (147,720);
+ref = L;
+scale = (1,-1);
+slant = (27.452,0);
+}
+);
+width = 484;
+}
+);
+leftKerningGroup = LAT_H_UC;
+rightKerningGroup = LAT_T_UC;
+unicode = 915;
+}

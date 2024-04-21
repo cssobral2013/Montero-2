@@ -1,0 +1,61 @@
+{
+glyphname = periodcentered;
+leftMetricsKey = "=47";
+widthMetricsKey = "=180";
+layers = (
+{
+anchors = (
+{
+name = _dot;
+position = "{160, 290}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+pos = (40,200);
+ref = period;
+}
+);
+width = 304;
+},
+{
+anchors = (
+{
+name = _dot;
+position = "{127, 281}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+pos = (46,204);
+ref = period;
+}
+);
+width = 242;
+},
+{
+anchors = (
+{
+name = _dot;
+position = "{102, 272}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+pos = (62,270);
+ref = period;
+}
+);
+width = 180;
+}
+);
+leftKerningGroup = PCT_EMDASH;
+rightKerningGroup = PCT_EMDASH;
+unicode = 183;
+}

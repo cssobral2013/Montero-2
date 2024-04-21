@@ -1,0 +1,83 @@
+{
+glyphname = "Pe-cy";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{680, 0}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(12,0,l),
+(190,0,l),
+(318,564,l),
+(582,564,l),
+(454,0,l),
+(632,0,l),
+(796,720,l),
+(176,720,l)
+);
+}
+);
+width = 764;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{647, 0}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(27,0,l),
+(133,0,l),
+(275,627,l),
+(623,627,l),
+(481,0,l),
+(586,0,l),
+(750,720,l),
+(191,720,l)
+);
+}
+);
+width = 731;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{614, 0}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,0,l),
+(76,0,l),
+(232,690,l),
+(664,690,l),
+(508,0,l),
+(540,0,l),
+(704,720,l),
+(206,720,l)
+);
+}
+);
+width = 698;
+}
+);
+leftKerningGroup = LAT_H_UC;
+rightKerningGroup = LAT_H_UC;
+unicode = 1055;
+}

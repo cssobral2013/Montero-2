@@ -1,0 +1,94 @@
+{
+glyphname = Hbar;
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{428, 578}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(26,532,l),
+(828,532,l),
+(828,624,l),
+(26,624,l)
+);
+},
+{
+alignment = -1;
+pos = (44,0);
+ref = H;
+}
+);
+width = 850;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{393, 0}";
+},
+{
+name = top;
+position = "{393, 720}";
+},
+{
+name = _center;
+position = "{393, 554}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+closed = 1;
+nodes = (
+(27,516,l),
+(759,516,l),
+(759,590,l),
+(27,590,l)
+);
+},
+{
+alignment = -1;
+pos = (26,0);
+ref = H;
+}
+);
+width = 779;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{358, 530}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+closed = 1;
+nodes = (
+(28,514,l),
+(688,514,l),
+(688,542,l),
+(28,542,l)
+);
+},
+{
+alignment = -1;
+pos = (8,0);
+ref = H;
+}
+);
+width = 708;
+}
+);
+leftKerningGroup = LAT_HBAR_UC;
+rightKerningGroup = LAT_HBAR_UC;
+unicode = 294;
+}

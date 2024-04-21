@@ -1,0 +1,161 @@
+{
+glyphname = n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{240, 0}";
+},
+{
+name = leghookleft;
+position = "{86, 0}";
+},
+{
+name = leghookretroflex;
+position = "{400, 0}";
+},
+{
+name = top;
+position = "{378, 528}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(174,0,l),
+(242,300,ls),
+(254,356,o),
+(286,394,o),
+(334,394,cs),
+(368,394,o),
+(398,374,o),
+(386,318,cs),
+(314,0,l),
+(488,0,l),
+(566,344,ls),
+(592,460,o),
+(524,536,o),
+(418,536,cs),
+(344,536,o),
+(282,496,o),
+(246,406,c),
+(292,456,l),
+(272,456,l),
+(288,528,l),
+(120,528,l),
+(0,0,l)
+);
+}
+);
+width = 604;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{234, 0}";
+},
+{
+name = leghookleft;
+position = "{64, 0}";
+},
+{
+name = leghookretroflex;
+position = "{400, 0}";
+},
+{
+name = top;
+position = "{370, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,0,l),
+(186,308,ls),
+(206,392,o),
+(270,436,o),
+(340,436,cs),
+(414,436,o),
+(440,388,o),
+(422,312,cs),
+(350,0,l),
+(452,0,l),
+(528,330,ls),
+(548,414,o),
+(514,528,o),
+(368,528,cs),
+(288,528,o),
+(232,492,o),
+(188,424,c),
+(242,462,l),
+(220,462,l),
+(234,520,l),
+(130,520,l),
+(12,0,l)
+);
+}
+);
+width = 580;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{222, 0}";
+},
+{
+name = leghookleft;
+position = "{42, 0}";
+},
+{
+name = leghookretroflex;
+position = "{384, 0}";
+},
+{
+name = top;
+position = "{340, 512}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(56,0,l),
+(130,324,ls),
+(150,414,o),
+(230,492,o),
+(330,492,cs),
+(444,492,o),
+(456,388,o),
+(438,308,cs),
+(368,0,l),
+(398,0,l),
+(468,312,ls),
+(496,438,o),
+(450,520,o),
+(332,520,cs),
+(240,520,o),
+(180,470,o),
+(138,404,c),
+(166,420,l),
+(152,420,l),
+(172,512,l),
+(142,512,l),
+(26,0,l)
+);
+}
+);
+width = 536;
+}
+);
+leftKerningGroup = LAT_N_LC;
+rightKerningGroup = LAT_N_LC;
+unicode = 110;
+}

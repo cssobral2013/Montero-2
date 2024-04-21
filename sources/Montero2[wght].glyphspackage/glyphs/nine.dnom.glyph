@@ -1,0 +1,43 @@
+{
+glyphname = nine.dnom;
+layers = (
+{
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (400,446);
+ref = six.dnom;
+}
+);
+width = 400;
+},
+{
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (393,446);
+ref = six.dnom;
+}
+);
+width = 393;
+},
+{
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+alignment = -1;
+angle = -180;
+pos = (382,446);
+ref = six.dnom;
+}
+);
+width = 382;
+}
+);
+leftKerningGroup = NINE_DNOM;
+rightKerningGroup = NINE_DNOM;
+}

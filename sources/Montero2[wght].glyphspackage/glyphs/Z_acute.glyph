@@ -1,0 +1,91 @@
+{
+glyphname = Zacute;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{-90, 822}";
+}
+);
+layerId = "577C2F50-0FC2-4837-984D-4FA1DCF6681B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,754,l),
+(244,824,l),
+(422,976,l),
+(502,870,l)
+);
+},
+{
+alignment = -1;
+ref = Z;
+}
+);
+width = 628;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{316, 0}";
+},
+{
+name = top;
+position = "{314, 720}";
+},
+{
+name = _top;
+position = "{314, 720}";
+}
+);
+layerId = "E6E1701F-FDD6-4B99-AB09-C7A03B8D4814";
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,757,l),
+(268,804,l),
+(426,947,l),
+(476,883,l)
+);
+},
+{
+alignment = -1;
+ref = Z;
+}
+);
+width = 617;
+},
+{
+anchors = (
+{
+name = top;
+position = "{-190, 822}";
+}
+);
+layerId = "DBF002CB-ACA5-4984-BB80-D7F3ACD5E203";
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,760,l),
+(292,784,l),
+(430,918,l),
+(450,896,l)
+);
+},
+{
+alignment = -1;
+ref = Z;
+}
+);
+width = 606;
+}
+);
+leftKerningGroup = LAT_Z_UC;
+rightKerningGroup = LAT_Z_UC;
+unicode = 377;
+}

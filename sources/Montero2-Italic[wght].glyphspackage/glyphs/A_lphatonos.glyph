@@ -1,0 +1,83 @@
+{
+glyphname = Alphatonos;
+layers = (
+{
+anchors = (
+{
+name = _topleft;
+position = "{182, 652}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,934,l),
+(118,692,l),
+(210,652,l),
+(378,836,l)
+);
+},
+{
+alignment = -1;
+ref = Alpha;
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = _topleft;
+position = "{216, 641}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,893,l),
+(187,672,l),
+(240,644,l),
+(402,834,l)
+);
+},
+{
+alignment = -1;
+ref = Alpha;
+}
+);
+width = 667;
+},
+{
+anchors = (
+{
+name = _topleft;
+position = "{250, 630}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,852,l),
+(256,652,l),
+(270,636,l),
+(426,832,l)
+);
+},
+{
+alignment = -1;
+ref = Alpha;
+}
+);
+width = 634;
+}
+);
+leftKerningGroup = LAT_A_UC;
+rightKerningGroup = LAT_A_UC;
+unicode = 902;
+}

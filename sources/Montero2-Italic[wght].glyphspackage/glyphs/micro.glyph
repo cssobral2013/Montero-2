@@ -1,0 +1,84 @@
+{
+glyphname = micro;
+layers = (
+{
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-44,-206,l),
+(130,-206,l),
+(296,528,l),
+(122,528,l)
+);
+},
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 620;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{226, 0}";
+},
+{
+name = horn;
+position = "{508, 520}";
+},
+{
+name = ogonek;
+position = "{444, 0}";
+},
+{
+name = top;
+position = "{344, 520}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-40,-206,l),
+(62,-206,l),
+(226,520,l),
+(124,520,l)
+);
+},
+{
+alignment = -1;
+pos = (2,0);
+ref = u;
+}
+);
+width = 586;
+},
+{
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-24,-206,l),
+(6,-206,l),
+(168,512,l),
+(138,512,l)
+);
+},
+{
+alignment = -1;
+ref = u;
+}
+);
+width = 546;
+}
+);
+leftKerningGroup = LAT_P_LC;
+rightKerningGroup = LAT_A_LC;
+unicode = 181;
+}

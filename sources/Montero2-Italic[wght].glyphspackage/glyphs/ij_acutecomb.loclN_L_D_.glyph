@@ -1,0 +1,71 @@
+{
+glyphname = ij_acutecomb.loclNLD;
+widthMetricsKey = "=i+j";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{869, 720}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+alignment = -1;
+pos = (293,0);
+ref = jacute;
+},
+{
+alignment = -1;
+pos = (-20,0);
+ref = iacute;
+}
+);
+width = 608;
+},
+{
+anchors = (
+{
+name = top;
+position = "{746, 720}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+alignment = -1;
+pos = (260,0);
+ref = jacute;
+},
+{
+alignment = -1;
+ref = iacute;
+}
+);
+width = 516;
+},
+{
+anchors = (
+{
+name = top;
+position = "{622, 720}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+alignment = -1;
+pos = (224,0);
+ref = jacute;
+},
+{
+alignment = -1;
+pos = (19,0);
+ref = iacute;
+}
+);
+width = 424;
+}
+);
+}

@@ -1,0 +1,182 @@
+{
+glyphname = t;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{210, 0}";
+},
+{
+name = cedilla;
+position = "{222, 0}";
+},
+{
+name = center;
+position = "{198, 264}";
+},
+{
+name = top;
+position = "{288, 674}";
+},
+{
+name = topright;
+position = "{410, 846}";
+}
+);
+layerId = "9C023954-B0F0-4AC3-996A-DC35BCD11D7C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,-8,o),
+(340,-4,o),
+(372,10,c),
+(342,154,l),
+(328,146,o),
+(312,140,o),
+(294,140,cs),
+(252,140,o),
+(260,174,o),
+(264,192,cs),
+(372,674,l),
+(200,674,l),
+(94,208,ls),
+(66,86,o),
+(110,-8,o),
+(256,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(418,380,l),
+(454,528,l),
+(82,528,l),
+(46,380,l)
+);
+}
+);
+width = 438;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{192, 0}";
+},
+{
+name = cedilla;
+position = "{204, 0}";
+},
+{
+name = center;
+position = "{172, 262}";
+},
+{
+name = top;
+position = "{266, 682}";
+},
+{
+name = topright;
+position = "{368, 804}";
+}
+);
+layerId = "169D7F5A-B55B-498B-8A7E-44B3106F6DC0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,-8,o),
+(292,0,o),
+(320,10,c),
+(290,98,l),
+(278,92,o),
+(254,86,o),
+(236,86,cs),
+(204,86,o),
+(186,108,o),
+(196,154,cs),
+(316,682,l),
+(214,682,l),
+(92,146,ls),
+(72,56,o),
+(120,-8,o),
+(226,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(384,432,l),
+(404,520,l),
+(92,520,l),
+(72,432,l)
+);
+}
+);
+width = 384;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{162, 0}";
+},
+{
+name = cedilla;
+position = "{172, 0}";
+},
+{
+name = center;
+position = "{142, 256}";
+},
+{
+name = top;
+position = "{240, 690}";
+},
+{
+name = topright;
+position = "{288, 772}";
+}
+);
+layerId = "1CFA5324-D054-4A76-8DD1-A1279E18B2E8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,-6,o),
+(220,-4,o),
+(240,4,c),
+(232,30,l),
+(218,24,o),
+(202,22,o),
+(186,22,cs),
+(130,22,o),
+(112,64,o),
+(128,132,cs),
+(254,690,l),
+(224,690,l),
+(100,142,ls),
+(80,50,o),
+(104,-6,o),
+(188,-6,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(340,484,l),
+(346,512,l),
+(106,512,l),
+(100,484,l)
+);
+}
+);
+width = 344;
+}
+);
+leftKerningGroup = LAT_T_LC;
+rightKerningGroup = LAT_T_LC;
+unicode = 116;
+}
