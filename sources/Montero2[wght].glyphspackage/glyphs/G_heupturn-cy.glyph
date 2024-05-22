@@ -4,7 +4,7 @@ glyphname = "Gheupturn-cy";
 rightMetricsKey = "=Ge-cy";
 layers = (
 {
-layerId = "6324EBA6-AEA3-4E83-9504-1204FE3965A0";
+layerId = "3717EFD3-6B64-4297-9C46-7E4C78651CC4";
 shapes = (
 {
 closed = 1;
@@ -23,7 +23,7 @@ nodes = (
 width = 534;
 },
 {
-layerId = "94997179-B2A0-4125-8E55-188F48EDA314";
+layerId = "50A05132-A89A-4BC5-B81A-F4657F37FF17";
 shapes = (
 {
 closed = 1;
@@ -42,7 +42,7 @@ nodes = (
 width = 520;
 },
 {
-layerId = "DBC57AB7-6BBF-4709-9065-B7AB4DBB4D97";
+layerId = "10DD257C-652B-4320-8EE1-77E209923FFD";
 shapes = (
 {
 closed = 1;

@@ -4,7 +4,7 @@ leftMetricsKey = e;
 widthMetricsKey = e;
 layers = (
 {
-layerId = "E1414F7C-7342-42E0-9F1C-475EAD3EF451";
+layerId = "EF07516E-CE4D-469D-8301-1491E725ACEB";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ name = ogonek;
 position = "{444, 36}";
 }
 );
-layerId = "39EADFFA-F378-45E3-ACCF-69574A40D336";
+layerId = "C82BF5B4-EE1A-4CB4-A2C0-4E66566823BE";
 shapes = (
 {
 alignment = -1;
@@ -47,7 +47,7 @@ ref = circumflexcomb_acutecomb;
 width = 560;
 },
 {
-layerId = "0FE7234A-0103-4F7B-BAB8-33CF7CB7E092";
+layerId = "960527DE-BC0D-48AB-B834-0D46F4119FDB";
 shapes = (
 {
 alignment = -1;

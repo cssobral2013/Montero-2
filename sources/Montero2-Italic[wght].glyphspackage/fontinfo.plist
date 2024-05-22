@@ -7730,7 +7730,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "0FE7234A-0103-4F7B-BAB8-33CF7CB7E092";
+id = "960527DE-BC0D-48AB-B834-0D46F4119FDB";
 metricValues = (
 {
 over = -8;
@@ -7961,7 +7961,7 @@ angle = 90;
 position = "{-110, 0}";
 }
 );
-id = "39EADFFA-F378-45E3-ACCF-69574A40D336";
+id = "C82BF5B4-EE1A-4CB4-A2C0-4E66566823BE";
 metricValues = (
 {
 over = -8;
@@ -8187,7 +8187,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "E1414F7C-7342-42E0-9F1C-475EAD3EF451";
+id = "EF07516E-CE4D-469D-8301-1491E725ACEB";
 metricValues = (
 {
 over = -8;
@@ -8309,7 +8309,7 @@ weightClass = ExtraBold;
 }
 );
 kerningLTR = {
-"0FE7234A-0103-4F7B-BAB8-33CF7CB7E092" = {
+"960527DE-BC0D-48AB-B834-0D46F4119FDB" = {
 "@MMK_L_CYR_DE_LC" = {
 "@MMK_R_CYR_EL_LC" = 20;
 "@MMK_R_LAT_Y_LC" = 12;
@@ -10055,7 +10055,7 @@ zeta = {
 "@MMK_R_PI_LC" = -84;
 };
 };
-"39EADFFA-F378-45E3-ACCF-69574A40D336" = {
+"C82BF5B4-EE1A-4CB4-A2C0-4E66566823BE" = {
 "@MMK_L_CYR_DE_LC" = {
 "@MMK_R_CYR_EL_LC" = 16;
 "@MMK_R_LAT_O_LC" = -6;
@@ -12155,7 +12155,7 @@ zeta = {
 "@MMK_R_PI_LC" = -52;
 };
 };
-"E1414F7C-7342-42E0-9F1C-475EAD3EF451" = {
+"EF07516E-CE4D-469D-8301-1491E725ACEB" = {
 "@MMK_L_CYR_DE_LC" = {
 "@MMK_R_CYR_EL_LC" = 12;
 "@MMK_R_LAT_O_LC" = -12;
@@ -14113,7 +14113,7 @@ name = V1;
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"0FE7234A-0103-4F7B-BAB8-33CF7CB7E092" = {
+"960527DE-BC0D-48AB-B834-0D46F4119FDB" = {
 HV = 32;
 HH = 30;
 OV = 31;
@@ -14123,7 +14123,7 @@ oH = 28;
 nV = 30;
 tH = 28;
 };
-"39EADFFA-F378-45E3-ACCF-69574A40D336" = {
+"C82BF5B4-EE1A-4CB4-A2C0-4E66566823BE" = {
 HV = 180;
 HH = 160;
 OV = 179;
@@ -14133,7 +14133,7 @@ oH = 144;
 nV = 168;
 tH = 148;
 };
-"E1414F7C-7342-42E0-9F1C-475EAD3EF451" = {
+"EF07516E-CE4D-469D-8301-1491E725ACEB" = {
 HV = 180;
 HH = 160;
 OV = 179;
